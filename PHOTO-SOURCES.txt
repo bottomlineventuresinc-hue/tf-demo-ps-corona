@@ -1,0 +1,12 @@
+PHOTO SOURCES — hs-022-ps PS Electrical (Wave 5 2026-09-21 PT)
+Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+
+hero-site.jpg — residential electrical panel / breaker work (verified; not camcorder/welder/high-rise)
+services-trade.jpg — panel services (verified)
+job041-* — panel B/A typical (verified prior-wave library)
+job-elec-* — outdoor enclosure service set (verified)
+job052-* — circuit/tools typical (verified)
+people-* — tools/toolbox/crew jobsite — NOT owner face
+coverage-house.jpg — CA-style residential exterior (verified)
+Sources: prior Wave verified library + Unsplash/Pexels commercial-ok downloads verified 2026-09-21 PT
+Rejected: Unsplash window-cleaner, coffee-roast, welder, drywall mislabels — not used
