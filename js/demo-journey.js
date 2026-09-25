@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential electrical and panel upgrades. Across Corona and the Inland Empire. Paul looks at the job first and puts the price in writing.';
+            'Residential electrical and panel upgrades in Corona. Paul looks at the job first and puts the price in writing.';
         }
       }
     },
